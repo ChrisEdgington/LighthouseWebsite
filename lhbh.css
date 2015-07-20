@@ -1,0 +1,171 @@
+body {
+    font-family: 'Vollkorn', serif;
+    font-size: 16px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.page-div {
+    width: auto;
+    right: 0;
+    left: 0;
+    max-width: 960px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#paypal-button {
+    height: 60px;
+    float: left;
+}
+#signature {
+    height: 76px;
+}
+#house-image {
+    border: solid;
+}
+#cy-image {
+    height: 240px;
+    padding: 4px;
+}
+
+#copyright {
+    text-align: right;
+}
+
+.newsletter {
+    /* overflow: scroll; */
+    /* margin-top: 8px; */
+    /* height: 640px; */
+}
+
+.pictures {
+    height: auto;
+}
+
+main {
+    margin-top: 88px;
+    padding-left: 6px;
+    padding-right: 6px;
+}
+
+.has-big-header {
+    margin-top: 130px;
+}
+/* header styling and positioning */
+header {
+    top: 0px;
+    background-color:white;
+    height: 86px;
+    position: fixed;
+    padding-left: 6px;
+    padding-right: 6px;
+}
+
+.double-menu {
+    height: 130px;
+}
+
+#header-top {
+    background-color: white;
+    height: 38px;
+}
+
+#header-logo {
+    width: 200px;
+}
+
+#header-content {
+    background-color: white;
+    width: auto;
+    height: 80px;
+}
+
+#logo-link {
+    position: absolute;
+    z-index: 11;
+}
+
+#header-logo-image {
+    height: 80px;
+}
+
+.line1 {
+    width: auto;
+    background-color: white;
+    height: 1px;
+}
+
+.line2lightblue {
+    width: auto;
+    background-color: lightblue;
+    height: 2px;
+}
+
+.line4 {
+    width: auto;
+    background-color: black;
+    height: 4px;
+}
+
+
+/* navbar restyling */
+.navbar-lh1 {
+    background-color: white;
+    border-color: white;
+    height: 40px;
+    min-height: 40px;
+    border-radius: 0px;
+    margin-bottom: 4px;
+}
+
+.navbar-lh2 {
+    background-color: white;
+    border-color: white;
+    height: 30px;
+    min-height: 30px;
+    border-radius: 0px;
+    margin: 0px;
+    border: none;
+    line-height: 30px;
+}
+
+.navbar-lh2 .navbar-nav > li > a {
+    padding: 6px 6px 6px 20px;
+    color: black;
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: red;
+}
+
+.navbar-collapse.collapse {
+    display: block!important;
+}
+
+.navbar-nav>li, .navbar-nav {
+    float: left !important;
+}
+
+.navbar-nav.navbar-right:last-child {
+    margin-right: -15px !important;
+}
+
+.navbar-right {
+    float: right!important;
+}
+
+/* footer */
+footer {
+    background-color:white;
+    height: 100px;
+    padding-left: 6px;
+    padding-right: 6px;
+}
+
+#footer-logo {
+    text-align: right;
+}
+
+
