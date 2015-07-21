@@ -28,6 +28,14 @@ body {
     height: 240px;
     padding: 4px;
 }
+.staff-block {
+    min-height: 240px;
+    margin: 2px;
+}
+.staff-image {
+    height: 240px;
+    padding: 2px;
+}
 
 #copyright {
     text-align: right;
