@@ -21,6 +21,11 @@ body {
 #signature {
     height: 76px;
 }
+
+#embed_logo {
+    height: 200px;
+}
+
 #house-image {
     border: solid;
 }
