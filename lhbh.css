@@ -42,6 +42,11 @@ body {
     padding: 2px;
 }
 
+#embed_building {
+    float: right;
+    margin: 10px;
+}
+
 #copyright {
     text-align: right;
 }
