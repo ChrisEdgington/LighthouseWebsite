@@ -47,6 +47,11 @@ body {
     margin: 10px;
 }
 
+.embed_fullwidth {
+    max-width: 100%;
+    margin: 10px;
+}
+
 #copyright {
     text-align: right;
 }
