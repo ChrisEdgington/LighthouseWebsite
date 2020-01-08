@@ -22,6 +22,9 @@ body {
     height: 76px;
 }
 
+#text-giving {
+  height: 140px;
+}
 #embed_logo {
     height: 200px;
 }
